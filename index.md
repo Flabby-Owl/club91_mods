@@ -3,9 +3,9 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Club91 Minecraft Mods Listing
+### Club91 Minecraft Mods Listing
 
-**Mods**
+#### Mods
 - BiomesOPlenty
 - MouseTweaks
 - Multiworld
@@ -44,8 +44,9 @@ in_menu: true
 - treeharvester
 - waystones
 - worldedit
+
 ---
-**Librairies**
+#### Librairies
 - GlitchCore
 - TerraBlender
 - athena
@@ -60,9 +61,18 @@ in_menu: true
 - owo-lib
 - resourcefullib
 - trinkets
+
 ---
-**Autres Infos**
-Version Minecraft: 1.21.1
-md5sum: cc4b4a6e079424582aeed0e0535ee2fe
+#### Mods Facultatifs
+- Jade
+- XaerosWorldMap
+- fusion
+- jei
+- sodium-extra
+
+---
+#### Autres Infos
+**Version Minecraft:** 1.21.1
+**md5sum:** cc4b4a6e079424582aeed0e0535ee2fe
 
 (Pour verifier si l'archive est corrompue ou non, ceux qui sont sous Windows, vous pouvez utiliser ca: https://lecrabeinfo.net/telecharger/hashtab) 
