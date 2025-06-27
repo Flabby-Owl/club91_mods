@@ -12,6 +12,7 @@ in_menu: true
 >Biomes O'Plenty est un mod créé pour le jeu Minecraft par TDWP_FTW. Il ajoute des biomes, des blocs, des plantes, des minerais, des outils...
 
 >Plus de 80 biomes vous attendent, tous différents les uns des autres ! 
+
 - MouseTweaks:
 
 >À moins d’être passionné de rangement ou d’avoir l’âme d’un intendant, le mode survie de Minecraft réserve parfois quelques phases que vous trouvez peu passionnantes : le rangement, la fabrication d’objets en masse, ou n’importe quelle autre tâche répétitive qui implique de manipuler de nombreux items dans des GUIs. Ces activités ennuyeuses, Mouse Tweaks vous propose de les simplifier rapidement grâce à un certain nombre de raccourcis et commandes de souris.
